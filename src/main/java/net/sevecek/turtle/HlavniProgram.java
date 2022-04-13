@@ -8,7 +8,7 @@ public class HlavniProgram {
         Turtle zofka;
 
         zofka = new Turtle();
-        zofka.move(200);
+        zofka.move(100);
     }
 
 }
